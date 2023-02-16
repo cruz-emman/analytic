@@ -15,6 +15,15 @@ import DesktopGadget from './pages/gadgets/DesktopGadget'
 import ActivityOfStudents from './pages/ActivityOfStudents'
 import EnrollmentLwsis from './pages/EnrollmentLwsis'
 import CSVFilesPage from './pages/CSVFilesPage';
+import Assign from './pages/activities/Assign';
+import Book from './pages/activities/Book';
+import Chat from './pages/activities/Chat';
+import Choice from './pages/activities/Choice';
+import Forum from './pages/activities/Forum';
+import Label from './pages/activities/Label';
+import Resource from './pages/activities/Resource';
+import Page from './pages/activities/Page';
+import Url from './pages/activities/Url';
 const App = () =>{
     return (
         <div className='flex flex-col '>
@@ -47,8 +56,17 @@ const App = () =>{
                         </Route>
 
                         {/* UsageTLC */}
-                        <Route path="/UsageTLCTeachers">
+                        <Route path="UsageTLCTeachers">
                             <Route index element={<UsageTLCTeachers />} />
+                            <Route path="assignment" element={<Assign />} />
+                            <Route path="book" element={<Book />} />
+                            <Route path="chat" element={<Chat />} />
+                            <Route path="choice" element={<Choice />} />
+                            <Route path="forum" element={<Forum />} />
+                            <Route path="label" element={<Label />} />
+                            <Route path="page" element={<Page />} />
+                            <Route path="url" element={<Url />} />
+                            <Route path="resources" element={<Resource />} />
                         </Route>
 
                         {/* InteractionStudents */}

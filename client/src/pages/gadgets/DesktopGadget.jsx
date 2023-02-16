@@ -8,7 +8,7 @@ const DesktopGadget  = () => {
         <div className='flex flex-col gap-5 items-center justify-center'>
           <div className='flex flex-col h-[600px] w-full border-2  p-4 items-center  justify-center'>
               <p className='text-3xl font-bold text-gray-400 text-center pb-10'>IDesktopGadget</p>
-              <BarGraphChart data={usage} />
+              <PieGraphChart data={usage} />
           </div>
 
           <div className='w-full h-full '>

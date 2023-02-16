@@ -1,12 +1,16 @@
 import React, {useEffect, useState} from 'react'
 import {Button, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow} from '@mui/material'
+import { DataGrid, GridToolbar } from "@mui/x-data-grid";
+
 import LoadingButton from '@mui/lab/LoadingButton';
+import {useNavigate} from 'react-router-dom'
 
 import axios from 'axios'
 import { toast } from 'react-toastify'
 
 const CSVFilesPage = () => {
 
+    const navigate = useNavigate()
     const [loading,setLoading] = useState(true)
     const [data, setData] = useState([])
 
@@ -25,21 +29,12 @@ const CSVFilesPage = () => {
             await axios.post('http://localhost:5000/api/v1/upload',formData)
             toast.success("CSV Upload Success!")
             setButtonLoading(false);
+            navigate(0)
 
         } catch (error) {
             console.log(error)
             toast.error("CSV file already existing!")
             setButtonLoading(false);
-
-        }
-    }
-
-    const handleDelete = async (e) =>{
-        console.log(e)
-        try {
-            await axios.get("http://localhost:5000/api/v1/singleTable",e)
-        } catch (error) {
-            
         }
     }
 
@@ -47,6 +42,7 @@ const CSVFilesPage = () => {
         const getAllExistingTables = async () =>{
             try {
                 const res = await axios.get('http://localhost:5000/api/v1/getAllTables')
+                console.log(res.data)
                 setData(res.data)
                 setCsvFile(null)
                 setLoading(false)
@@ -56,6 +52,7 @@ const CSVFilesPage = () => {
         }
         getAllExistingTables()
     },[setData])
+   
 
 
   return (
@@ -73,31 +70,36 @@ const CSVFilesPage = () => {
                     value="Upload a file">Upload CSV</LoadingButton>
             </form>
             </div>
-            <TableContainer component={Paper}>
-                <Table>
-                    <TableHead>
-                        <TableRow>
-                            <TableCell  style={{fontWeight: 'bold', fontSize: '12px', color: "gray"}} >#</TableCell>
-                            <TableCell  style={{fontWeight: 'bold', fontSize: '12px', color: "gray"}} align='right'> Name</TableCell>
-                            <TableCell  style={{fontWeight: 'bold', fontSize: '12px', color: "gray"}} align='right'>Action</TableCell>
-                        </TableRow>
-                    </TableHead>
-                    <TableBody>
-                        {data.map((item) => (
-                        <TableRow key={item.id}>
-                            <TableCell>{item.id}</TableCell>
-                            <TableCell align='right' style={{fontWeight:700}}>{item.name}.csv</TableCell>
-                            <TableCell align='right'>
-                                <div className='flex flex-row justify-end gap-5 items-center'>
-                                    <Button variant='contained'>Update</Button>
-                                    <Button onClick={(e) => handleDelete(item.id)} color="error" variant='contained'>Delete</Button>
-                                </div>
-                                
-                            </TableCell>
-                        </TableRow>))}
-                    </TableBody>
-                </Table>
-            </TableContainer>
+            
+            
+            <div className='flex flex-col gap-2 items-center justify-center w-full'>
+            <p className='text-3xl font-semibold text-gray-900'>CSV files in Database</p>
+            <p className='text-lg font-semibold text-red-600'>please check before database </p>
+            </div>
+
+            <div className='h-[600px] w-full p-4'>
+                <DataGrid
+                    className='p-4 rounded-lg shadow-2xl'
+                    {...data}
+                    rows={loading ? [] : data}
+                    getRowId={(row) => row.id}
+                    columns={[
+                        {field: 'id', headerName: "#"},
+                        {field: 'name', headerName: "CSV File", width: 600}
+                    ]}
+                    pageSize={9}
+                    rowsPerPageOptions={[5]}
+                    components={{ Toolbar: GridToolbar }}
+                    componentsProps={{
+                    toolbar: {
+                        showQuickFilter: true,
+                        quickFilterProps: { debounceMs: 500 },
+                    },
+                    }}
+                />
+            </div>
+            
+          
         </div>
     </div>
   )

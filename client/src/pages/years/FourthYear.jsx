@@ -17,16 +17,12 @@ const FourthYear = () => {
               <Table>
                 <TableHead>
                   <TableRow>
-                    <TableCell>College</TableCell>
                     <TableCell>4th Year</TableCell>
-                   
                   </TableRow>
                 </TableHead>
                 <TableBody>
                   <TableRow>
-                    <TableCell>Name</TableCell>
                     <TableCell>68%</TableCell>
-                  
                   </TableRow>
                 </TableBody>
               </Table>

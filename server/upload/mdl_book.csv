@@ -1,0 +1,350 @@
+id,course,name,intro,introformat,numbering,navstyle,customtitles,revision,timecreated,timemodified
+1,13,TLC Manual for Teachers,,1,1,1,0,0,1598122940,1598122940
+2,14,About this course,,1,1,1,0,0,1592030371,1592030371
+3,15,About the training course,,1,1,1,0,0,1591601597,1591601597
+4,18,YOUR SENIOR HIGH SCHOOL FAMILY,"<p dir=""ltr"" style=""text-align: right;""><a href=""https://moodle4.tualearning.com/course/view.php?id=18"">(Go back to main)</a></p>",1,2,0,1,0,1597408156,1597408599
+5,22,Welcome to TRINITY UNIVERSITY OF ASIA,,1,2,1,0,0,1597296568,1597296644
+15,74,Privacy Lecture,,1,1,1,0,0,1631029740,1631064609
+16,1112,Lesson 1: The Housekeeping Department,"<h3 style=""text-align: left;"">This course deals with the skills and knowledge required to provide housekeeping services to guests within the tourism industry. This course also provides a glimpse of the duties and responsibilities of the different positions under the Housekeeping department.</h3>",1,1,1,0,0,1599580217,1599584842
+17,1112,Lesson 2: The Housekeeping Staff,,1,1,1,0,0,1599582856,1599582856
+18,1112,Lesson 1: Accepting Housekeeping Requests,,1,1,1,0,0,1599587877,1600217672
+19,1112,Lesson 2: Recording Housekeeping Requests,,1,1,1,0,0,1600185576,1600217709
+20,1112,Lesson 3: Advising Guests on the Delivery of Identified Item/ Service,,1,1,1,0,0,1600186109,1600217748
+21,1112,Lesson 4: Provide Housekeeping Requests,,1,1,1,0,0,1600186791,1600217767
+22,1112,Lesson 5: Provide Advice to Guests,,1,1,1,0,0,1600187408,1600217783
+23,1112, Lesson 6: Liaise with other departments,,1,1,1,0,0,1600214456,1600217830
+24,1112,Lesson 1: What is a Guest Room Attendant?,,1,1,1,0,0,1600225129,1600225129
+25,1112,Lesson 2: Good Grooming,,1,1,1,0,0,1600225693,1600225693
+26,1112,Lesson 3: Daily Activities,,1,1,1,0,0,1600226169,1600226169
+27,1112,Housekeeping Briefing Session &  Lesson 1: The Room Assignment Sheet,"<p dir=""ltr"" style=""text-align: center;""><br></p><p></p>",1,1,1,0,0,1600227611,1600228283
+28,1112, Lesson 2: Supplies and Equipment,"<p style=""text-align: left;"" dir=""ltr""></p><h3></h3><br><p></p>",1,1,1,0,0,1600228351,1600228709
+29,1112, Lesson 1: What is a Valet?,,1,1,1,0,0,1603206691,1603206691
+30,1112,Lesson 2: Good Grooming,"<iframe src=""https://www.e-tesda.gov.ph/mod/hvp/embed.php?id=1405"" width=""750"" height=""500"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe><script src=""https://www.e-tesda.gov.ph/mod/hvp/library/js/h5p-resizer.js"" charset=""UTF-8""></script>",1,1,1,0,0,1603206809,1603208055
+31,1112," Lesson 1: Preparing for Guest's Arrival","<p dir=""ltr"" style=""text-align: left;""><h3>Introduction</h3><div><h3>Obtaining the guest's information prior to arrival is crucial in the effective delivery of valet services. The more the Valet Staff knows about the guest, the better the services would be provided. This could be done by referring to the guest's history. Doing so allows the valet staff to prepare for most requests a guest might demand.&nbsp;</h3></div><br></p>",1,1,1,0,0,1603209188,1603209188
+32,1112, Lesson 2: Welcoming Guests,,1,1,1,0,0,1604854123,1604854123
+33,1112,Lesson 3: Unpacking and Packing,,1,1,1,0,0,1604854383,1604854383
+34,1112, Lesson 4: Process Laundry and Pressing,,1,1,1,0,0,1604855640,1604855640
+35,1112,Lesson 5: Clean Guest Shoes,,1,1,1,0,0,1604856302,1604856302
+36,1112, Lesson 6: Receiving and Acting on Guest Requests,,1,1,1,0,0,1604856563,1604856563
+37,1123,Lesson 1: The Housekeeping Department,"<h3 style=""text-align: left;"">This course deals with the skills and knowledge required to provide housekeeping services to guests within the tourism industry. This course also provides a glimpse of the duties and responsibilities of the different positions under the Housekeeping department.</h3>",1,1,1,0,0,1599580217,1599584842
+38,1123,Lesson 2: The Housekeeping Staff,,1,1,1,0,0,1599582856,1599582856
+39,1123,Lesson 1: Accepting Housekeeping Requests,,1,1,1,0,0,1599587877,1600217672
+40,1123,Lesson 2: Recording Housekeeping Requests,,1,1,1,0,0,1600185576,1600217709
+41,1123,Lesson 3: Advising Guests on the Delivery of Identified Item/ Service,,1,1,1,0,0,1600186109,1600217748
+42,1123,Lesson 4: Provide Housekeeping Requests,,1,1,1,0,0,1600186791,1600217767
+43,1123,Lesson 5: Provide Advice to Guests,,1,1,1,0,0,1600187408,1600217783
+44,1123, Lesson 6: Liaise with other departments,,1,1,1,0,0,1600214456,1600217830
+45,1123,Lesson 1: What is a Guest Room Attendant?,,1,1,1,0,0,1600225129,1600225129
+46,1123,Lesson 2: Good Grooming,,1,1,1,0,0,1600225693,1600225693
+47,1123,Lesson 3: Daily Activities,,1,1,1,0,0,1600226169,1600226169
+48,1123,Housekeeping Briefing Session &  Lesson 1: The Room Assignment Sheet,"<p dir=""ltr"" style=""text-align: center;""><br></p><p></p>",1,1,1,0,0,1600227611,1600228283
+49,1123, Lesson 2: Supplies and Equipment,"<p style=""text-align: left;"" dir=""ltr""></p><h3></h3><br><p></p>",1,1,1,0,0,1600228351,1600228709
+50,1123, Lesson 1: What is a Valet?,,1,1,1,0,0,1603206691,1603206691
+51,1123,Lesson 2: Good Grooming,"<iframe src=""https://www.e-tesda.gov.ph/mod/hvp/embed.php?id=1405"" width=""750"" height=""500"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe><script src=""https://www.e-tesda.gov.ph/mod/hvp/library/js/h5p-resizer.js"" charset=""UTF-8""></script>",1,1,1,0,0,1603206809,1603208055
+52,1123," Lesson 1: Preparing for Guest's Arrival","<p dir=""ltr"" style=""text-align: left;""><h3>Introduction</h3><div><h3>Obtaining the guest's information prior to arrival is crucial in the effective delivery of valet services. The more the Valet Staff knows about the guest, the better the services would be provided. This could be done by referring to the guest's history. Doing so allows the valet staff to prepare for most requests a guest might demand.&nbsp;</h3></div><br></p>",1,1,1,0,0,1603209188,1603209188
+53,1123, Lesson 2: Welcoming Guests,,1,1,1,0,0,1604854123,1604854123
+54,1123,Lesson 3: Unpacking and Packing,,1,1,1,0,0,1604854383,1604854383
+55,1123, Lesson 4: Process Laundry and Pressing,,1,1,1,0,0,1604855640,1604855640
+56,1123,Lesson 5: Clean Guest Shoes,,1,1,1,0,0,1604856302,1604856302
+57,1123, Lesson 6: Receiving and Acting on Guest Requests,,1,1,1,0,0,1604856563,1604856563
+60,1500,Privacy Lecture,,1,1,1,0,0,1631029740,1631064609
+63,1137,BEST OUTPUT,,1,1,1,0,0,1632070577,1632070590
+64,1141,BEST OUTPUT,,1,1,1,0,0,1632070577,1632070590
+65,1080,Lesson 1 & 2: Influences on Modern Food Service Operations and The Professional Chef,,1,1,1,0,2,1597242171,1663664860
+66,1080,Lesson 3: The Kitchen Department,,1,1,1,0,2,1599482157,1663714552
+67,1080,LESSON 4: The Kitchen Staff,,1,1,1,0,2,1599113808,1663714606
+68,1080,"LESSON 1: Common Kitchen Tools, Utensils, and Equipment",,1,1,1,0,1,1599144801,1663714025
+69,1080,LESSON 2: Measurements and Conversions,,1,1,1,0,0,1599145718,1601919014
+70,1080,Lesson 1 & 2: Influences on Modern Food Service Operations and The Professional Chef,,1,1,1,0,1,1597242171,1664098816
+71,1080,Lesson 3: The Kitchen Department,,1,1,1,0,1,1599482157,1664098880
+72,1080,LESSON 4: The Kitchen Staff,,1,1,1,0,2,1599113808,1664098935
+73,1080,"LESSON 1: Common Kitchen Tools, Utensils, and Equipment",,1,1,1,0,1,1599144801,1664098984
+74,1080,LESSON 2: Measurements and Conversions,,1,1,1,0,0,1599145718,1634092556
+75,1080,Food Safety and Sanitation - 1,,1,1,1,0,0,1597242171,1634061482
+76,1080,Food Safety and Sanitation - 2,,1,1,1,0,0,1603129241,1634061478
+77,1080,LESSON 1: OCCUPATIONAL HEALTH AND SAFETY PROCEDURE,"<p dir=""ltr"" style=""text-align: left;""><h3>To avoid accidents and problems in the workstation and in food preparation, you must practice occupational safety and proper health procedure. The lesson includes the use of PPEs, proper handwashing techniques, good hygienic practices, and kitchen safety measures.</h3><br></p>",1,1,1,0,0,1604938988,1635266084
+78,1080,LESSON 2: BASIC AND ADVANCE KNIFE SKILLS,,1,1,1,0,0,1604942058,1635266072
+79,1080,Culinary Terms,"<h3 style=""text-align: left;""><br></h3>",1,1,1,0,0,1604944693,1604944771
+80,1080,MISE EN PLACE,,1,1,1,0,0,1597242171,1636085720
+81,1080,PRINCIPLES OF COOKING,,1,1,1,0,0,1597242171,1606154557
+82,1080,STOCKS & SAUCES AND SOUP,,1,1,1,0,0,1597242171,1636087397
+83,1080,DAIRY PRODUCTS,,1,1,1,0,0,1597242171,1637689789
+84,1080,EGG AND BREAKFAST,,1,1,1,0,0,1597242171,1637688904
+85,1080,"POTATOS, GRAINS AND PASTA",,1,1,1,0,0,1597242171,1637690362
+86,1080,MEAT COOKERY,,1,1,1,0,0,1597242171,1606154572
+87,1080,BASIC NUTRITION,,1,1,1,0,0,1597242171,1607965404
+88,1080,PLATE PRESENTATION,,1,1,1,0,0,1597242171,1606154592
+89,1080,ON COOKING BY LABENSKY,,1,1,1,0,0,1597242171,1597242171
+90,1080,ON COOKING BY LABENSKY,,1,1,1,0,0,1597242171,1597242171
+91,1088,Lesson 1 & 2: Influences on Modern Food Service Operations and The Professional Chef ,,1,1,1,0,0,1597242171,1630449764
+92,1088,Lesson 3: The Kitchen Department,,1,1,1,0,2,1599482157,1663776003
+93,1088,LESSON 4: The Kitchen Staff,,1,1,1,0,1,1599113808,1663775977
+94,1088,"LESSON 1: Common Kitchen Tools, Utensils, and Equipment",,1,1,1,0,1,1599144801,1663800533
+95,1088,LESSON 2: Measurements and Conversions,,1,1,1,0,0,1599145718,1601919014
+96,1088,Lesson 1 & 2: Influences on Modern Food Service Operations and The Professional Chef,,1,1,1,0,1,1597242171,1664099273
+97,1088,Lesson 3: The Kitchen Department,,1,1,1,0,1,1599482157,1664099302
+98,1088,LESSON 4: The Kitchen Staff,,1,1,1,0,1,1599113808,1664099332
+99,1088,"LESSON 1: Common Kitchen Tools, Utensils, and Equipment",,1,1,1,0,1,1599144801,1664099364
+100,1088,LESSON 2: Measurements and Conversions,,1,1,1,0,0,1599145718,1634092556
+101,1088,Food Safety and Sanitation - 1,,1,1,1,0,0,1597242171,1634061482
+102,1088,Food Safety and Sanitation - 2,,1,1,1,0,0,1603129241,1634061478
+142,1420,"Essentials of Organizational Behavior:  Robbins and Judge, 15th Edition","<iframe src=""https://drive.google.com/file/d/1VcgaB35glwUBIuIjXEkExxBOMDLGHrVI/preview"" width=""640"" height=""480"" allow=""autoplay""></iframe>",1,1,1,0,1,1650275000,1650275000
+143,1391,"Essentials of Organizational Behavior:  Robbins and Judge, 15th Edition","<iframe src=""https://drive.google.com/file/d/1VcgaB35glwUBIuIjXEkExxBOMDLGHrVI/preview"" width=""640"" height=""480"" allow=""autoplay""></iframe>",1,1,1,0,0,1650275000,1650275000
+144,234,"Miller, T. and Tupper, T. (2019) Zoology 11th edition","<p dir=""ltr"" style=""text-align: left;"">Register here to get a copy (not free):&nbsp;https://connect.mheducation.com/class/a-argayosa-2<wbr>psy01-1</p>",1,1,1,0,0,1661577513,1661577513
+145,1637,First Quarter Resources,,1,2,1,0,43,1629764514,1661656861
+146,1623,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+147,1623,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+148,1623,Learning Materials for ILT & OSLP,,1,1,1,0,0,1600667731,1632213977
+149,1623,"LET'S LEARN NIHONGO ",,1,1,1,0,0,1604902487,1604902487
+150,1623,Minna Lesson 2 Vocabulary ,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1612273367,1612273444
+151,1623,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+152,1623,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+153,1623,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+154,1623,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+155,1623,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+164,1653,"Q2-Week 1 (Nov. 11-12, 2021)",,1,1,1,0,0,1636538550,1636541930
+165,1653,Drama Sketch,,1,1,1,0,0,1637805509,1637805509
+166,1653,People Power and Persuasion,"<p dir=""ltr"" style=""text-align: left;""></p><p>You have
+learned that there are important considerations to understand a situation. This
+activity presents an important consideration---the people. In this period of
+American history, the blacks were in the middle of a big challenge---how to advance their rights in the spirit of peace. Here, persuasion is highlighted as the
+power that leads them to appreciate their value.</p>
+
+<p>You will listen to and view a speech.
+Then, you will paraphrase and summarize the important information in the text.
+Afterward, you will agree or disagree with some ideas in the text.</p><p>Before
+listening to and watching this speech, complete this Anticipation Table by
+giving an anticipated detail for the information given in the first column.
+Later, check-in the Affirmation column if your anticipated idea is correct. The
+first item is done as your guide.</p><br><p></p>",1,1,1,0,0,1637806439,1637806695
+168,1342,Coding Challenge 6.1 - Portfolio Website ver-1 (sample screenshots),"<p dir=""ltr"" style=""text-align: left;""><strong><span class="""" style=""color: rgb(51, 102, 255);""><em>Please view the samples.</em></span></strong></p>",1,1,1,0,0,1602747915,1602748247
+169,1316,BOOK: Sample ePortfolios,,1,0,1,0,0,1599996399,1600058005
+170,1316,Coding Challenge 6.1 - Portfolio Website ver-1 (sample screenshots),"<p dir=""ltr"" style=""text-align: left;""><strong><span class="""" style=""color: rgb(51, 102, 255);""><em>Please view the samples.</em></span></strong></p>",1,1,1,0,0,1602747915,1602748247
+171,1322,BOOK: THE BUSINESS ENVIRONMENT,"<p dir=""ltr"" style=""text-align: center;""><br></p><p dir=""ltr"" style=""text-align: left;""><br></p>",1,0,0,0,0,1600007677,1600149737
+172,1322,BOOK: Framework for IT Systems Development,,1,1,0,0,0,1600146311,1600342471
+173,1322,BOOK: Creating Workflow Using Process Flowcharts,,1,1,1,0,0,1603369167,1603369545
+174,1352,BOOK: THE BUSINESS ENVIRONMENT,"<p dir=""ltr"" style=""text-align: center;""><br></p><p dir=""ltr"" style=""text-align: left;""><br></p>",1,0,0,0,0,1600007677,1600149737
+175,1352,BOOK: Framework for IT Systems Development,,1,1,0,0,0,1600146311,1600342471
+176,1352,BOOK: Creating Workflow Using Process Flowcharts,,1,1,1,0,0,1603369167,1603369545
+178,1172,Readings: People in Organizations,,1,3,2,0,0,1597161715,1597250603
+179,1172,Readings: Motivation & Reward Systems,,1,3,2,0,0,1597161715,1597338950
+180,1172,Readings: Stress & Emotions,,1,3,2,0,0,1597161715,1597347269
+181,1172,Readings: Decision Making,,1,3,2,0,0,1597161715,1603557866
+182,1172,Readings: Leadership,,1,3,2,0,0,1597161715,1603559864
+183,1172,Readings: Communication in the Workplace,,1,3,2,0,0,1597161715,1604336602
+184,1172,Readings: Power & Politics,,1,3,2,0,0,1597161715,1604338785
+185,1172,Readings: Group & Teams,,1,3,2,0,0,1597161715,1604339998
+186,1172,Readings: Organizational Structure and Change,,1,3,2,0,0,1597161715,1604340526
+187,1172,Readings: Conflict & Negotiation,,1,3,2,0,0,1597161715,1604340975
+188,1172,Readings: Organizational Culture,,1,3,2,0,0,1597161715,1604341497
+189,1638,First Quarter Resources,,1,2,1,0,31,1629764514,1661656861
+190,1645,APA Format,"<p dir=""ltr"" style=""text-align: left;""><span class="""" style=""color: rgb(0, 0, 0);"">The following information was from</span>&nbsp;<span class="""" style=""color: rgb(51, 102, 255);"">https://www.scribbr.com/<span class="""" style=""color: rgb(0, 0, 0);"">.&nbsp;&nbsp;</span></span></p>",1,0,1,0,7,1631668696,1663739842
+191,1645,"Modal Verbs, Nouns, and Adverbs",,1,2,1,0,0,1632189676,1632189676
+192,1645,Transitional Words,,1,2,1,0,0,1632871876,1632872074
+193,1646,APA Format,"<p dir=""ltr"" style=""text-align: left;""><span class="""" style=""color: rgb(0, 0, 0);"">The following information was from</span>&nbsp;<span class="""" style=""color: rgb(51, 102, 255);"">https://www.scribbr.com/<span class="""" style=""color: rgb(0, 0, 0);"">.&nbsp;&nbsp;</span></span></p>",1,0,1,0,5,1631668696,1662700971
+194,1646,"Modal Verbs, Nouns, and Adverbs",,1,2,1,0,0,1632189676,1632189676
+195,1646,Transitional Words,,1,2,1,0,0,1632871876,1632872074
+196,1786,https://drive.google.com/drive/folders/14BRlOsQ8GO7wa-xMXdUfjx610ON9-ijZ,"<p dir=""ltr"" style=""text-align: left;"">https://drive.google.com/drive/folders/14BRlOsQ8GO7wa-xMXdUfjx610ON9-ijZ<br></p>",1,1,1,0,0,1662032986,1662033053
+223,1103,Lesson 1: The Front Office Department,"<p dir=""ltr"" style=""text-align: left;""><br><br></p>",1,1,1,0,3,1629904316,1664207621
+226,1103,Lesson 4: Performing Clerical Procedures,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,2,1629906183,1664207661
+227,1113,Lesson 1: The Front Office Department,"<p dir=""ltr"" style=""text-align: left;""><br><br></p>",1,1,1,0,0,1629904316,1629904384
+230,1113,Lesson 4: Performing Clerical Procedures,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,2,1629906183,1663908475
+232,1644,UNANG MARKAHAN,"<p dir=""ltr"" style=""text-align: left;"">Panitikan sa Panahon ng Katutubo, Kastila, at Hapon</p>",1,3,1,0,0,1599049971,1599049971
+233,1643,UNANG MARKAHAN,"<p dir=""ltr"" style=""text-align: left;"">Panitikan sa Panahon ng Katutubo, Kastila, at Hapon</p>",1,3,1,0,0,1599049971,1599049971
+235,1779,https://drive.google.com/drive/folders/14BRlOsQ8GO7wa-xMXdUfjx610ON9-ijZ,"<p dir=""ltr"" style=""text-align: left;"">https://drive.google.com/drive/folders/14BRlOsQ8GO7wa-xMXdUfjx610ON9-ijZ<br></p>",1,1,1,0,0,1662032986,1662033053
+237,1285,TUA and CEIS in a Nutshell,,1,1,0,0,0,1599403270,1599403296
+238,1644,UNANG MARKAHAN,"<p dir=""ltr"" style=""text-align: left;"">Panitikan sa Panahon ng Katutubo, Kastila, at Hapon</p>",1,3,1,0,0,1599049971,1599049971
+239,1832,Hotel Star Rating (Group Report Presentations),Please open per chapter to see the different classification of hotel according to star rating.&nbsp;,1,1,1,0,0,1616052002,1616052002
+241,1886,Reading: Introduction to Management Theory and Organizational Behavior,,1,3,2,0,0,1597084035,1597175142
+242,1886,Readings: People in Organizations,,1,3,2,0,0,1597161715,1597250603
+243,1886,Readings: Motivation & Reward Systems,,1,3,2,0,0,1597161715,1597338950
+244,1886,Readings: Stress & Emotions,,1,3,2,0,0,1597161715,1597347269
+245,1886,Readings: Decision Making,,1,3,2,0,0,1597161715,1603557866
+246,1886,Readings: Leadership,,1,3,2,0,0,1597161715,1603559864
+247,1886,Readings: Communication in the Workplace,,1,3,2,0,0,1597161715,1604336602
+248,1886,Readings: Power & Politics,,1,3,2,0,0,1597161715,1604338785
+249,1886,Readings: Group & Teams,,1,3,2,0,0,1597161715,1604339998
+250,1886,Readings: Organizational Structure and Change,,1,3,2,0,0,1597161715,1604340526
+251,1886,Readings: Conflict & Negotiation,,1,3,2,0,0,1597161715,1604340975
+252,1886,Readings: Organizational Culture,,1,3,2,0,0,1597161715,1604341497
+253,1031,Topic 1 - Personality,,1,1,1,0,0,1644118207,1644118254
+254,1031,Topic 2 - Self Esteem,,1,1,1,0,0,1644118395,1644118395
+255,1031,Topic 3 - Self-Development,,1,1,1,0,0,1644118643,1644118643
+256,1031,Topic 4 - Attitude,,1,1,1,0,0,1644122196,1644122196
+257,1031,Topic 1 - Introducing yourself,,1,1,1,0,0,1645705276,1645705276
+258,1031,Topic 2 - On Small Talks,,1,1,1,0,0,1645706034,1645706034
+259,1031,Topic 3 - Attire,,1,1,1,0,0,1645706131,1645706131
+260,1031,Topic 4 - Your Online Presence,,1,1,1,0,0,1645706202,1645706202
+261,1031,Topic 5 - In the Office,,1,1,1,0,0,1645706279,1645706279
+262,1031,Topic 6 - During Meetings/Interviews,,1,1,1,0,0,1645706459,1645706475
+263,1031,Topic 7 - Proper Lunch/Dinner Etiquette,,1,1,1,0,0,1645706661,1645706661
+264,1031,Topic 8 - RSVPs,,1,1,1,0,0,1645706926,1645706926
+265,1031,Topic 9 - Phones and Emails,,1,1,1,0,0,1645709400,1645709400
+266,1031,Topic 10 - Verbal Manners,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709584,1645709662
+267,1031,Topic 1 - Morals and Ethics,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709820,1645709912
+268,1031,Topic 2 - Right and Wrong in the Real World,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709962,1645709962
+269,1031,Topic 3 - Code of Ethics and Business Conduct,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645710058,1645710058
+270,1031,Types of Communication,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/Comm%20Types.PNG"" alt="""" width=""489"" height=""159"" role=""presentation"" class=""img-responsive atto_image_button_text-bottom""><br></p>",1,1,1,0,0,1645710407,1645710668
+271,1031,Topic 1 - Time Management,,1,1,1,0,0,1645710861,1645710861
+272,1031,Topic 2 - Stress and Anger Management,,1,1,1,0,0,1645711001,1645711001
+273,1031,Topic 3 - Decision Making Guidelines,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645711794,1645711794
+274,1031,Topic 4 - Conflict Management,,1,1,1,0,0,1645711953,1645711953
+275,1031,Topic 5 - Handling Different Types of Customers,,1,1,1,0,0,1645712078,1645712078
+276,1031,Topic 1 - Resume Writing,,1,1,1,0,0,1645712268,1645712268
+277,1031,Topic 2 - Job Application Essentials,,1,1,1,0,0,1645712396,1645712396
+278,1031,Topic 3 - Interview Tips,,1,1,1,0,0,1645763061,1645763061
+280,1644,Filipino 8,"<p dir=""ltr"" style=""text-align: left;"">Mga Akda</p>",1,1,1,0,7,1662703872,1662704096
+281,1031,7 Signs of Strong EQ,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation"" class=""img-fluid""><br></p>",1,1,1,0,12,1662954154,1662955264
+283,1031,Personal Relationship,,1,1,1,0,6,1662955449,1662955449
+284,1031,Professional Relationship,,1,1,1,0,13,1662955668,1662955919
+285,1031,Power of the Mind,,1,1,1,0,12,1662956141,1662956141
+286,1031,Law of Attraction,,1,1,1,0,2,1662956543,1662956543
+287,1031,Formal Set Up,,1,1,1,0,5,1662959499,1662959499
+288,1031,Casual Set Up,,1,1,1,0,2,1662959713,1662959713
+289,1031,Basic Set Up,,1,1,1,0,2,1662959815,1662959815
+290,1031,Career Path,,1,1,1,0,11,1662959974,1662959974
+291,1031,Jobs/Careers in Tourism,,1,1,1,0,17,1662963480,1662963480
+292,1040,7 Signs of Strong EQ,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation"" class=""img-fluid""><br></p>",1,1,1,0,0,1662954154,1662955264
+293,1040,Personal Relationship,,1,1,1,0,0,1662955449,1662955449
+294,1040,Professional Relationship,,1,1,1,0,0,1662955668,1662955919
+295,1040,Power of the Mind,,1,1,1,0,0,1662956141,1662956141
+296,1040,Law of Attraction,,1,1,1,0,0,1662956543,1662956543
+297,1040,Formal Set Up,,1,1,1,0,0,1662959499,1662959499
+298,1040,Casual Set Up,,1,1,1,0,0,1662959713,1662959713
+299,1040,Basic Set Up,,1,1,1,0,0,1662959815,1662959815
+300,1040,Career Path,,1,1,1,0,0,1662959974,1662959974
+301,1040,Jobs/Careers in Tourism,,1,1,1,0,0,1662963480,1662963480
+302,1040,Topic 1 - Personality,,1,1,1,0,0,1644118207,1644118254
+303,1040,Topic 2 - Self Esteem,,1,1,1,0,0,1644118395,1644118395
+304,1040,Topic 3 - Self-Development,,1,1,1,0,0,1644118643,1644118643
+305,1040,Topic 4 - Attitude,,1,1,1,0,0,1644122196,1644122196
+306,1040,Topic 1 - Introducing yourself,,1,1,1,0,0,1645705276,1645705276
+307,1040,Topic 2 - On Small Talks,,1,1,1,0,0,1645706034,1645706034
+308,1040,Topic 3 - Attire,,1,1,1,0,0,1645706131,1645706131
+309,1040,Topic 4 - Your Online Presence,,1,1,1,0,0,1645706202,1645706202
+310,1040,Topic 5 - In the Office,,1,1,1,0,0,1645706279,1645706279
+311,1040,Topic 6 - During Meetings/Interviews,,1,1,1,0,0,1645706459,1645706475
+312,1040,Topic 7 - Proper Lunch/Dinner Etiquette,,1,1,1,0,0,1645706661,1645706661
+313,1040,Topic 8 - RSVPs,,1,1,1,0,0,1645706926,1645706926
+314,1040,Topic 9 - Phones and Emails,,1,1,1,0,0,1645709400,1645709400
+315,1040,Topic 10 - Verbal Manners,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709584,1645709662
+316,1040,Topic 1 - Morals and Ethics,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709820,1645709912
+317,1040,Topic 2 - Right and Wrong in the Real World,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645709962,1645709962
+318,1040,Topic 3 - Code of Ethics and Business Conduct,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645710058,1645710058
+319,1040,Types of Communication,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/Comm%20Types.PNG"" alt="""" width=""489"" height=""159"" role=""presentation"" class=""img-responsive atto_image_button_text-bottom""><br></p>",1,1,1,0,0,1645710407,1645710668
+320,1040,Topic 1 - Time Management,,1,1,1,0,0,1645710861,1645710861
+321,1040,Topic 2 - Stress and Anger Management,,1,1,1,0,0,1645711001,1645711001
+322,1040,Topic 3 - Decision Making Guidelines,"<p dir=""ltr"" style=""text-align: left;""><img src=""@@PLUGINFILE@@/image.png"" alt="""" role=""presentation""><br></p>",1,1,1,0,0,1645711794,1645711794
+323,1040,Topic 4 - Conflict Management,,1,1,1,0,0,1645711953,1645711953
+324,1040,Topic 5 - Handling Different Types of Customers,,1,1,1,0,0,1645712078,1645712078
+325,1040,Topic 1 - Resume Writing,,1,1,1,0,0,1645712268,1645712268
+326,1040,Topic 2 - Job Application Essentials,,1,1,1,0,0,1645712396,1645712396
+327,1040,Topic 3 - Interview Tips,,1,1,1,0,0,1645763061,1645763061
+333,1624,"LET'S LEARN NIHONGO ",,1,1,1,0,0,1604902487,1604902487
+334,1624,Minna Lesson 2 Vocabulary ,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1612273367,1612273444
+335,1624,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+336,1624,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+337,1624,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+338,1624,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+339,1624,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+341,1103,Lesson 2: The Front Office Staff,"<p dir=""ltr"" style=""text-align: left;""><h2><br></h2></p>",1,1,1,0,2,1629905265,1629905265
+342,1113,Lesson 2: The Front Office Staff,"<p dir=""ltr"" style=""text-align: left;""><h2><br></h2></p>",1,1,1,0,1,1629905265,1663908414
+343,1113,Lesson 3: Front Office Design and Equipment,,1,1,1,0,1,1629905704,1663908444
+344,1103,COMPETENCY #1: Receive and Process Reservations ,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,0,1629906183,1631728945
+345,1103,Lesson 1: The Guest Cycle,"<p dir=""ltr"" style=""text-align: left;""></p><h3><br></h3><br><p></p>",1,1,1,0,0,1603300954,1603300994
+346,1103, Lesson 2: Promoting Products and Services to Guests,,1,1,1,0,0,1603302244,1603302244
+347,1103, Lesson 3: Handling Customers’ Complaints,"<p dir=""ltr"" style=""text-align: left;""><h3>Introduction</h3><h3>Properly handling customer complaints must never be overlooked by the hotel staff. As part of the front office, most likely, complaints will be directed to you. This lesson will explain the importance of handling guest complaints and how you, as office staff, should handle these kinds of issues.</h3><br></p>",1,1,1,0,0,1603302986,1603302986
+348,1103, Lesson 1: Receiving and Processing Reservation Request,,1,1,1,0,0,1604501100,1635344742
+349,1103,Lesson 2: Operating a Computerized Reservation System,,1,1,1,0,0,1604505682,1604505682
+350,1103,Lesson 3: Advising Others on Reservation Details,"<p dir=""ltr"" style=""text-align: center;""><br></p>",1,1,1,0,0,1604508657,1604508842
+351,1103, Lesson 1: Providing Accommodation Reception Services,,1,1,1,0,0,1606311471,1606311471
+352,1103,Lesson 2: Providing Club Reception Services,,1,1,1,0,0,1606315883,1666916395
+353,1103,Lesson 3: Providing Concierge and Bell Services,,1,1,1,0,0,1606316483,1666916408
+354,1103,Lesson 1: Conduct Night Audit,,1,1,1,0,0,1606917191,1606917191
+355,1103, Lesson 2: Providing Cashiering Services,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1606922345,1606922345
+356,1103,Lesson 1: The Front Office Department (copy),"<p dir=""ltr"" style=""text-align: left;""><br><br></p>",1,1,1,0,0,1629904316,1637767556
+357,1103,Lesson 2: The Front Office Staff (copy),"<p dir=""ltr"" style=""text-align: left;""><h2><br></h2></p>",1,1,1,0,0,1629905265,1637767576
+359,1103, Lesson 4: Performing Clerical Procedures,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,0,1629906183,1634736009
+360,1103,Lesson 1: The Guest Cycle,"<p dir=""ltr"" style=""text-align: left;""></p><h3><br></h3><br><p></p>",1,1,1,0,0,1603300954,1634735982
+361,1103, Lesson 1: Receiving and Processing Reservation Request,,1,1,1,0,0,1604501100,1634735959
+362,1103,Lesson 2: Operating a Computerized Reservation System,,1,1,1,0,0,1604505682,1634735962
+363,1103,Lesson 3: Advising Others on Reservation Details,"<p dir=""ltr"" style=""text-align: center;""><br></p>",1,1,1,0,0,1604508657,1634735967
+364,1103,Lesson 4: Performing Clerical Procedures,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,1,1629906183,1663899627
+365,1113,Lesson 1: The Front Office Department (copy),"<p dir=""ltr"" style=""text-align: left;""><br><br></p>",1,1,1,0,0,1629904316,1637767556
+366,1113,Lesson 2: The Front Office Staff (copy),"<p dir=""ltr"" style=""text-align: left;""><h2><br></h2></p>",1,1,1,0,0,1629905265,1637767576
+367,1113,Lesson 3: Front Office Design and Equipment (copy),,1,1,1,0,0,1629905704,1637767615
+368,1113, Lesson 4: Performing Clerical Procedures,"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,0,1629906183,1634736009
+369,1113,Lesson 1: The Guest Cycle,"<p dir=""ltr"" style=""text-align: left;""></p><h3><br></h3><br><p></p>",1,1,1,0,0,1603300954,1634735982
+370,1113, Lesson 1: Receiving and Processing Reservation Request,,1,1,1,0,0,1604501100,1634735959
+371,1113,Lesson 2: Operating a Computerized Reservation System,,1,1,1,0,0,1604505682,1634735962
+372,1113,Lesson 3: Advising Others on Reservation Details,"<p dir=""ltr"" style=""text-align: center;""><br></p>",1,1,1,0,0,1604508657,1634735967
+374,1113, Lesson 4: Performing Clerical Procedures (copy),"<p dir=""ltr"" style=""text-align: left;""></p><h3></h3><br><p></p>",1,1,1,0,0,1629906183,1629906229
+375,1630,"LET'S LEARN NIHONGO ",,1,1,1,0,0,1604902487,1604902487
+377,1630,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+378,1630,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+379,1630,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+380,1630,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+381,1630,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+382,1624,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+383,1624,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+384,1624,Learning Materials for ILT & OSLP,,1,1,1,0,0,1600667731,1632213977
+385,1612,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+386,1612,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+387,1612,Learning Materials for ILT & OSLP,,1,1,1,0,0,1600667731,1632213977
+388,1611,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+389,1611,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+390,1611,Learning Materials for ILT & OSLP,,1,1,1,0,0,1600667731,1632213977
+393,1103,Lesson 3: Front Office Design and Equipment,,1,1,1,0,3,1629905704,1664207638
+394,1103,Lesson 3: Front Office Design and Equipment (copy),,1,1,1,0,0,1629905704,1664207638
+395,1080,Food Safety and Sanitation - 1,,1,1,1,0,0,1597242171,1664897247
+396,1080,Food Safety and Sanitation - 2,,1,1,1,0,0,1603129241,1664897278
+397,1080,PREPARED SALAD AND SALAD DRESSING,,1,1,1,0,3,1597242171,1664898023
+399,1088,Food Safety and Sanitation - 1,,1,1,1,0,0,1597242171,1664897247
+400,1088,Food Safety and Sanitation - 2,,1,1,1,0,0,1603129241,1664897278
+401,1088,LESSON 1: OCCUPATIONAL HEALTH AND SAFETY PROCEDURE,"<p dir=""ltr"" style=""text-align: left;""><h3>To avoid accidents and problems in the workstation and in food preparation, you must practice occupational safety and proper health procedure. The lesson includes the use of PPEs, proper handwashing techniques, good hygienic practices, and kitchen safety measures.</h3><br></p>",1,1,1,0,0,1604938988,1635266084
+402,1088,LESSON 2: BASIC AND ADVANCE KNIFE SKILLS,,1,1,1,0,0,1604942058,1635266072
+403,1088,MISE EN PLACE,,1,1,1,0,0,1597242171,1636085720
+404,1088,PRINCIPLES OF COOKING,,1,1,1,0,0,1597242171,1606154557
+405,1088,STOCKS & SAUCES AND SOUP,,1,1,1,0,0,1597242171,1636087397
+406,1088,PREPARED SALAD AND SALAD DRESSING,,1,1,1,0,0,1597242171,1664898023
+407,1088,DAIRY PRODUCTS,,1,1,1,0,0,1597242171,1637689789
+408,1088,EGG AND BREAKFAST,,1,1,1,0,0,1597242171,1637688904
+409,1088,"POTATOS, GRAINS AND PASTA",,1,1,1,0,0,1597242171,1637690362
+410,1088,MEAT COOKERY,,1,1,1,0,0,1597242171,1606154572
+411,1088,BASIC NUTRITION,,1,1,1,0,0,1597242171,1607965404
+412,1088,PLATE PRESENTATION,,1,1,1,0,0,1597242171,1606154592
+413,1088,ON COOKING BY LABENSKY,,1,1,1,0,0,1597242171,1597242171
+414,1088,Culinary Terms,"<h3 style=""text-align: left;""><br></h3>",1,1,1,0,0,1604944693,1604944771
+415,1088,ON COOKING BY LABENSKY,,1,1,1,0,0,1597242171,1597242171
+416,1113, Lesson 1: Receiving and Processing Reservation Request,,1,1,1,0,0,1604501100,1635344742
+417,1113,Lesson 2: Operating a Computerized Reservation System,,1,1,1,0,0,1604505682,1604505682
+418,1113,Lesson 3: Advising Others on Reservation Details,"<p dir=""ltr"" style=""text-align: center;""><br></p>",1,1,1,0,0,1604508657,1604508842
+419,1113, Lesson 1: Providing Accommodation Reception Services,,1,1,1,0,0,1606311471,1606311471
+420,1113,Lesson 2: Providing Club Reception Services,,1,1,1,0,0,1606315883,1666936724
+421,1113,Lesson 3: Providing Concierge and Bell Services,,1,1,1,0,0,1606316483,1666936731
+422,1113,Lesson 1: Conduct Night Audit,,1,1,1,0,0,1606917191,1606917191
+423,1113, Lesson 2: Providing Cashiering Services,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1606922345,1606922345
+426,1618,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+427,1618,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+428,1618,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+429,1618,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+430,1617,Japanese Syllabary,,1,1,1,0,0,1600408053,1632290158
+431,1617,Japanese Writing System,,1,1,1,0,0,1632215654,1632215654
+432,1617,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+433,1617,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+435,1777,Nihongo 101,,1,1,1,0,7,1667398263,1667398621
+437,1784,Nihongo 101,,1,1,1,0,0,1667398263,1667398621
+438,1770,Nihongo 101,,1,1,1,0,0,1667398263,1667398621
+439,1637,2nd Quarter Resources,,1,2,1,0,12,1667453184,1667453247
+440,1638,2nd Quarter Resources,,1,2,1,0,8,1667453869,1667453869
+441,1645,2nd Quarter Resources,,1,2,1,0,9,1667456764,1667456764
+442,1646,2nd Quarter Resources,,1,2,1,0,9,1667460975,1667460975
+443,1629,"LET'S LEARN NIHONGO ",,1,1,1,0,0,1604902487,1604902487
+444,1629,Minna Lesson 2 Vocabulary ,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1612273367,1612273444
+445,1629,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+446,1617,"LET'S LEARN NIHONGO ",,1,1,1,0,0,1604902487,1604902487
+447,1617,Minna Lesson 2 Vocabulary ,"<p dir=""ltr"" style=""text-align: left;""><br></p>",1,1,1,0,0,1612273367,1612273444
+448,1617,Minna no Nihongo Lessons,,1,1,1,0,0,1604902487,1632290078
+449,1617,Learning Videos,,1,1,1,0,0,1619055067,1620781155
+450,1617,Position Words and Giving Direction,,1,1,1,0,0,1644831664,1645492253
+451,1748,Variations,,1,1,1,0,2,1673836272,1673836272

@@ -166,12 +166,11 @@ const Sidebar = () => {
               {/* Number of students, male, and female, 1st year, to fourth */}
 
               <Link to="/demographic">
-              <ListItemButton onClick={handleOpenDemographic}>
+              <ListItemButton>
                 <ListItemIcon>
                   <MdPeopleAlt />
                 </ListItemIcon>
-                <ListItemText primary="Demographic profile of students" />
-                {demographic ? <MdOutlineExpandLess /> : <MdOutlineExpandMore />}
+                <ListItemText primary="Reports Demographic Students" />
               </ListItemButton>
               </Link>
 
@@ -217,9 +216,9 @@ const Sidebar = () => {
               </Collapse> 
 
 
-                {/* USAGE  */}
-              <Link to="/UsageTLCTeachers">
-                <ListItemButton onClick={handleOpenUsage}>
+                {/* USAGE onClick={handleOpenUsage} */}
+              <Link to="/UsageTLCTeachers" onClick={handleOpenUsage}>
+                <ListItemButton >
                   <ListItemIcon>
                     <FaChalkboardTeacher />
                   </ListItemIcon>
@@ -229,13 +228,97 @@ const Sidebar = () => {
               </Link>
 
               <Collapse in={usage} timeout="auto" unmountOnExit>
-                <List component="div" disablePadding>
-                  <ListItemButton sx={{ pl: 4 }}>
-                    <ListItemIcon>
-                    </ListItemIcon>
-                    <ListItemText primary="College" />
-                  </ListItemButton>
-                </List>
+                <Link to="UsageTLCTeachers/assignment">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Assignments" />
+                    </ListItemButton>
+                  </List>
+                </Link>
+                
+                <Link to="UsageTLCTeachers/book">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Books" />
+                    </ListItemButton>
+                  </List>
+                </Link>        
+                      
+                <Link to="UsageTLCTeachers/chat">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Chat" />
+                    </ListItemButton>
+                  </List>
+                </Link> 
+
+                <Link to="UsageTLCTeachers/choice">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Choice" />
+                    </ListItemButton>
+                  </List>
+                </Link>
+
+                <Link to="UsageTLCTeachers/forum">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Forum" />
+                    </ListItemButton>
+                  </List>
+                </Link>
+
+                <Link to="UsageTLCTeachers/label">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Label" />
+                    </ListItemButton>
+                  </List>
+                </Link> 
+
+                <Link to="UsageTLCTeachers/page">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Page" />
+                    </ListItemButton>
+                  </List>
+                </Link>     
+
+                <Link to="UsageTLCTeachers/resources">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="Resource" />
+                    </ListItemButton>
+                  </List>
+                </Link>  
+
+                 <Link to="UsageTLCTeachers/url">
+                  <List component="div" disablePadding>
+                    <ListItemButton sx={{ pl: 4 }}>
+                      <ListItemIcon>
+                      </ListItemIcon>
+                      <ListItemText primary="URL" />
+                    </ListItemButton>
+                  </List>
+                </Link>        
+
+
               </Collapse>
 
               {/* Interecton pf Students no need for drop down button */}
@@ -262,14 +345,14 @@ const Sidebar = () => {
               
               
 
-              {/* Enrollment Lwsis */}
+              {/* Enrollment Lwsis onClick={handleOpenEnrollment}*/}
               <Link to="/EnrollmentLwsis">
-              <ListItemButton onClick={handleOpenEnrollment}>
+              <ListItemButton >
                 <ListItemIcon>
                   <MdOutlineHouseSiding />
                 </ListItemIcon>
                 <ListItemText primary="Enrollment of LWSIS" />
-                {enrollmemt ? <MdOutlineExpandLess /> : <MdOutlineExpandMore />}
+                {/* {enrollmemt ? <MdOutlineExpandLess /> : <MdOutlineExpandMore />} */}
               </ListItemButton>
               </Link>
               <Collapse in={enrollmemt} timeout="auto" unmountOnExit>
@@ -282,14 +365,14 @@ const Sidebar = () => {
                 </List>
               </Collapse>
 
-              {/* List of Gadgets Lwsis */}
+              {/* List of Gadgets Lwsis onClick={handleOpenGadget}*/}
               <Link to="/Gadgets">
-                <ListItemButton onClick={handleOpenGadget}>
+                <ListItemButton >
                   <ListItemIcon>
                     <GrCloudComputer />
                   </ListItemIcon>
                   <ListItemText primary="List of Gadgets" />
-                  {gadget ? <MdOutlineExpandLess /> : <MdOutlineExpandMore />}
+                  {/* {gadget ? <MdOutlineExpandLess /> : <MdOutlineExpandMore />} */}
                 </ListItemButton>
               </Link>
               
@@ -318,7 +401,7 @@ const Sidebar = () => {
 
             </List>
 
-
+{/* 
             <List
               dense
                sx={{ width: '100%', maxWidth: 360, }}
@@ -334,7 +417,7 @@ const Sidebar = () => {
                 <ListItemButton>
                     <ListItemIcon>
                       <MdOutlineDashboard />
-                    </ListItemIcon>
+                    </ListItemIcon> 
                     <ListItemText primary="Forecasting Usage" />
                   </ListItemButton>
 
@@ -347,7 +430,7 @@ const Sidebar = () => {
               </Link>
               
             </List >
-            
+             */}
 
             
         </div>

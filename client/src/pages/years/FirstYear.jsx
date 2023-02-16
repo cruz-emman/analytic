@@ -18,14 +18,11 @@ const FirstYear = () => {
               <Table>
                 <TableHead>
                   <TableRow>
-                    <TableCell>College</TableCell>
                     <TableCell>1st Year</TableCell>
-                   
                   </TableRow>
                 </TableHead>
                 <TableBody>
                   <TableRow>
-                    <TableCell>Name</TableCell>
                     <TableCell>68%</TableCell>
                   
                   </TableRow>
